@@ -74,7 +74,7 @@ def load_data():
 
 def main() -> None:
     
-    TOKEN = '8479188706:AAFoW95ye91E4Ng6rpJP8NO4_iuT97hXdzs'
+    TOKEN = 'Вставьте токен'
 
     load_data()
 
