@@ -1,1 +1,1 @@
-Bot I made for my BMSTU practice. It is far from being fully ready but why not?
+Bot I made for my BMSTU practice. It is far from being completely done but why not?
